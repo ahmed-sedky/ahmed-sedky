@@ -42,16 +42,13 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 
 <h3> Desktop Applications</h3>
 <p  align= "left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg
-" alt="qt" width="50" height="50" >
+<img src="Qt_logo.svg" alt="qt" width="50" height="50" >
 </p>
 
 <h3> Document Markup languages</h3>
 <p  align= "left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg
-" alt="latex" width="50" height="50" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
-" alt="markdown" width="50" height="50" >
+<img src="LaTeX_logo.svg" alt="latex" width="50" height="50" >
+<img src="markdown.svg" alt="markdown" width="50" height="50" >
 </p>
 
 
