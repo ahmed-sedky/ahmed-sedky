@@ -48,7 +48,7 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 <h3> Document Markup languages</h3>
 <p  align= "left">
 <img src="LaTeX_logo.svg" alt="latex" width="50" height="50" >
-<img src="markdown.svg" alt="markdown" width="50" height="50" >
+<img src="Markdown.svg" alt="markdown" width="50" height="50" >
 </p>
 
 
