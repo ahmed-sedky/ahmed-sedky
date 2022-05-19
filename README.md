@@ -2,7 +2,7 @@
 
 Systems and Biomedical Engineering Senior Student at Cairo University. Interested in Computer Vision <strong>
 
-<a href="https://www.linkedin.com/in/ahmed-hossam-sedky-b61992189/"><img src="https://img.shields.io/badge/-%40Ahmed%20Sedky-blue" alt="LinkedIn Badge" ></a>
+<a href="www.linkedin.com/in/ahmedhossamsedky"><img src="https://img.shields.io/badge/-%40Ahmed%20Sedky-blue" alt="LinkedIn Badge" ></a>
 
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" style="margin:15px 0 15px 15px" />
 
