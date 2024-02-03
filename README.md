@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Ahmed Hossam Sedky</h2>
 
-Systems and Biomedical Engineering Senior Student at Cairo University. Interested in Computer Vision <strong>
+Systems and Biomedical Engineering Senior Student at Cairo University. Interested in Software Quality assurance <strong>
 
 <a href="www.linkedin.com/in/ahmedhossamsedky"><img src="https://img.shields.io/badge/-%40Ahmed%20Sedky-blue" alt="LinkedIn Badge" ></a>
 
